@@ -1,3 +1,3 @@
 # GUI
-progect after 1 month of studying
+progect after 1 month of studying /n
 Мое самое первое приложение,начало первого курса, выложил чтоб было что вспомнить в старости XD
